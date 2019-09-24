@@ -7,15 +7,15 @@ from collections import deque, Counter
 
 ########### Define your variables ######
 
-myheading1='Try out a palindrome here!'
-initial_value='A nut for a jar of tuna'
+myheading1='What is the longest palindrome?'
+initial_value='tattarrattat'
 longtext='''
         _Suggestions you might try:_
-        * A man, a plan, a canal: Panama!
-        * Go hang a salami I'm a lasanga hog
-        * God! Nate bit a Tibetan dog!
+        * detartrated
+        * redivider
+        * Rotavator
         '''
-tabtitle = 'racecar'
+tabtitle = 'words'
 sourceurl = 'https://www.grammarly.com/blog/16-surprisingly-funny-palindromes/'
 githublink = 'https://github.com/austinlasseter/dash-simple-callback'
 

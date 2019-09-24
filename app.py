@@ -16,7 +16,7 @@ longtext='''
         * Rotavator
         '''
 tabtitle = 'words'
-sourceurl = 'https://www.grammarly.com/blog/16-surprisingly-funny-palindromes/'
+sourceurl = 'https://english.stackexchange.com/questions/13844/what-is-the-longest-palindrome-word-in-english'
 githublink = 'https://github.com/austinlasseter/dash-simple-callback'
 
 ########### Define a function for your callback:

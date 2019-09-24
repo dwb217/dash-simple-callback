@@ -50,7 +50,7 @@ app.layout = html.Div(children=[
     [Input(component_id='my-id', component_property='value')]
 )
 def update_output_div(input_value):
-    palin=my_function(input_value.upper)
+    palin=my_function(input_value)
     return f"You've entered '{input_value}', and your output is '{palin}'"
 
 ############ Deploy
